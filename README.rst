@@ -1,4 +1,4 @@
-LATICAUDA is a Python flavor I guess...
+CPYTHON INFO [Not for Laticauda]
 =======================================
 
 .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
