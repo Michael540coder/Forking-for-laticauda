@@ -1,5 +1,5 @@
-Laticauda is being created right here, using CPython as a base.
-===============================================================
+LATICAUDA is a Python flavor I guess...
+=======================================
 
 .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
    :alt: CPython build status on GitHub Actions
