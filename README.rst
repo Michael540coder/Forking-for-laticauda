@@ -1,6 +1,8 @@
 CPYTHON INFO [Not for Laticauda]
 ================================
-GO TO [WIKI](https://github.com/Michael540coder/laticauda-cpython/wiki/Page-1) FOR INFORMATION ON LATICAUDA ITSELF
+GO TO `WIKI`_ FOR INFORMATION ON LATICAUDA ITSELF
+
+.. _WIKI: https://github.com/Michael540coder/laticauda-cpython/wiki/Page-1
 
 .. image:: https://github.com/python/cpython/actions/workflows/build.yml/badge.svg?branch=main&event=push
    :alt: CPython build status on GitHub Actions
