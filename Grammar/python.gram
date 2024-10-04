@@ -134,6 +134,7 @@ compound_stmt[stmt_ty]:
     | &('for' | 'async') for_stmt
     | &'try' try_stmt
     | &'while' while_stmt
+    | &'extends' extends_stmt
     | match_stmt
 
 # SIMPLE STATEMENTS
